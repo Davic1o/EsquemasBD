@@ -1,9 +1,98 @@
-<mxfile host="app.diagrams.net" modified="2022-06-05T22:22:22.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5098.0 Safari/537.36" etag="Xn_hdcPX4lRz-oJSweh6" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-05T23:42:51.031Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5098.0 Safari/537.36" etag="fzRpyhq6gLc0SyDZLAXo" version="19.0.0" type="github">
   <diagram id="E41NsyfRr_BKljrcj-fv" name="Page-1">
-    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2211" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <object label="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Provincia&lt;/font&gt;&lt;/font&gt;" id="EopbfksfODksPwOAun3i-4">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="90" y="350" width="100" height="30" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="EopbfksfODksPwOAun3i-5" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Tiene&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="400" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EopbfksfODksPwOAun3i-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Cantones&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="460" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EopbfksfODksPwOAun3i-7" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Tiene&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="520" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EopbfksfODksPwOAun3i-8" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Parque_Natural&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="590" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EopbfksfODksPwOAun3i-9" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="530" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EopbfksfODksPwOAun3i-10" value="Facilidades" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="690" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EopbfksfODksPwOAun3i-12" value="Dirección" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="630" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EopbfksfODksPwOAun3i-13" value="Acceso" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="760" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EopbfksfODksPwOAun3i-14" value="Altitud" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="700" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EopbfksfODksPwOAun3i-15" value="Extención" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="525" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EopbfksfODksPwOAun3i-18" value="Reservación" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="587.5" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EopbfksfODksPwOAun3i-19" value="Tiene" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="565" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EopbfksfODksPwOAun3i-21" value="Visitante" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="710" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EopbfksfODksPwOAun3i-22" value="Es" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="434.29" y="780" width="60" height="70.5" as="geometry" />
+        </mxCell>
+        <mxCell id="EopbfksfODksPwOAun3i-24" value="Reserva" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="880" width="85.71" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EopbfksfODksPwOAun3i-26" value="Acompañante" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="875" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EopbfksfODksPwOAun3i-28" value="Acceso" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="760" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EopbfksfODksPwOAun3i-29" value="ID_Reserva" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="910" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EopbfksfODksPwOAun3i-30" value="ID_Parque" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="770" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EopbfksfODksPwOAun3i-31" value="ID_provincia" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EopbfksfODksPwOAun3i-32" value="ID_Cantones" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="450" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EopbfksfODksPwOAun3i-33" value="R_Provincia" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1020" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EopbfksfODksPwOAun3i-34" value="R_Fecha" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="960" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EopbfksfODksPwOAun3i-35" value="ID_Acompañante" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="960" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EopbfksfODksPwOAun3i-36" value="A_Provincia" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1020" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EopbfksfODksPwOAun3i-37" value="A_Fecha" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="910" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EopbfksfODksPwOAun3i-39" value="Tiene" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="434.29" y="653.75" width="45.71" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="EopbfksfODksPwOAun3i-43" value="numero" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="660" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
